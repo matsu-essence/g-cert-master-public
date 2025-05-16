@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/g-cert-master-public/static/css/main.21d66231.css",
+    "main.js": "/g-cert-master-public/static/js/main.8607cb31.js",
+    "index.html": "/g-cert-master-public/index.html",
+    "main.21d66231.css.map": "/g-cert-master-public/static/css/main.21d66231.css.map",
+    "main.8607cb31.js.map": "/g-cert-master-public/static/js/main.8607cb31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d66231.css",
+    "static/js/main.8607cb31.js"
+  ]
+}
