@@ -39,3 +39,7 @@ git clone https://github.com/matsu-essence/g-cert-master-public.git
 cd g-cert-master-public
 npm install
 npm start
+
+```
+
+ブラウザで [http://localhost:3000](http://localhost:3000) を開いてアプリを確認してください。
